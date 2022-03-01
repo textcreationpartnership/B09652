@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable visitours appointed by both Houses of Parliament for the regulating and reforming of the Vniversity of Oxford. The petition of your friends and servants in the said Vniversity.</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09652</idno>
+            <idno type="STC">Wing O987B</idno>
+            <idno type="STC">ESTC R181288</idno>
+            <idno type="EEBO-CITATION">64551539</idno>
+            <idno type="OCLC">ocm 64551539</idno>
+            <idno type="VID">184684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184684)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable visitours appointed by both Houses of Parliament for the regulating and reforming of the Vniversity of Oxford. The petition of your friends and servants in the said Vniversity.</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford --  History --  17th century.</term>
+               <term>England and Wales. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:184684:1" rendition="simple:additions"/>
+            <head>To the Honourable Viſitours appointed by both Houſes of Parliament for the regulating and reforming of the Vniverſity of <hi>Oxford.</hi>
+            </head>
+            <head type="sub">The Petition of your Freinds and Servants in the ſaid Vniverſity.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>That divers learned and civill men have much importuned, and ſome of them ſeduced (under pretence of maintaining the old Prelacy and Liturgy) to enter into a kinde of Confederacy with Doctor <hi>Fell,</hi> and his Delegates, to oppoſe all Reformers, both the Parliament, and Viſitours, and hinder a juſt and neceſsary Reforma<g ref="char:EOLhyphen"/>tion. VVe doe not deny that ſome of us are exerciſed with doubts, but we deſire to communicate our speciall ſcruples to you in an humble and outrages of other men, who are as yet (to the great diſhonour and pre<g ref="char:EOLhyphen"/>judice of our Common-Mother the Vniverſity) of the ſame body with us. VVe conſider that to oppoſe you our much honour'd Viſitours, is to re<g ref="char:EOLhyphen"/>bell againſt the Houſes: to maintaine Prelacy is to uphold Tyranny: and to contend for the Common-Prayer-Booke is to contend for a falſe Tranſlation of the Canonicall Scriptures, to magnifie thoſe bookes that are not Canonicall, and juſtifie the Court of <hi>Rome,</hi> not onely in admit<g ref="char:EOLhyphen"/>ing dangerous Ceremonies to corrupt the purity, but in ſubmitting to the Roman Order, which would overthrow the piety of our Common and publique ſervice.</p>
+            <p>VVe are bold therefore to remonſtrate that whatever is propounded and delivered by the pretended Delegates aforeſaid, as the ſence of the whole Vniverſity contrary to this Petition, is contrary both to our ſence and conſciences; And our humble requeſt is, that you judge not of this Vniverſity by the rage and confederacy of ſome Malignants in it, who would endanger the whole body to ſave themſelves, and have therefore conſpired to ſet up this Delegacy to ſeduce and corrupt the un<g ref="char:EOLhyphen"/>ſetled, to oppoſe the Viſitation, and hinder the Reformation of this place. Be pleaſed to command every man to plead his owne cause, and ſpeake for himſelfe, onely puniſh the Heads and Ringleaders of this Rebellious conſpiracy, and pardon all ſeduced Schollers, who upon bet<g ref="char:EOLhyphen"/>ter information, and more mature deliberation, ſhew that they have er<g ref="char:EOLhyphen"/>red out of meere ſimplicity, and doe not hate to be reformed.</p>
+            <closer>And we ſhall pray, &amp;c.
+<date>
+                  <hi>Iune 2. 1647.</hi>
+               </date>
+            </closer>
+         </div>
+         <div type="appointment">
+            <pb facs="tcp:184684:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Veneris. 18. FEB. 1647.</date>
+               </dateline>
+            </opener>
+            <p>THe Lords and Commons in Parliament aſsembled do appoint and eſtabliſh <hi>Joſhua Croſſe</hi> Maſter of Arts, and fellow of Lincolne Colledge in Oxford to be ſenior Proctor, and <hi>Ralph Button</hi> Maſter of Arts and fellow of Merton Colledge junior Proctor of the <g ref="char:V">Ʋ</g>niverſitie of Oxford, with full power and authority to exerciſe and execute the ſaid places and offices of Pro<g ref="char:EOLhyphen"/>ctors according to the Lawes of the Land, the Cuſtomes and Statutes rightly eſtabliſhed of the ſaid <g ref="char:V">Ʋ</g>niverſitie; And to continue in the ſaid places untill the uſuall time of Reſignation and Election, which ſhall be in the yeare 1649. And then the uſuall courſe ſhall be held for the choice of Proctors as in former times.</p>
+            <closer>
+               <signed>Jo <hi>Browne</hi> Cler. Parliamentorum.</signed>
+               <signed>
+                  <hi>H. Elſynge</hi> Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <opener>
+               <dateline>At the Committee for the Vniverſitie OXFORD <date>
+                     <hi>Iuly 2. 1646.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>ORdered that no Maſters or Heads of any Colledges or Halls, or Schollers, or other perſons be admit<g ref="char:EOLhyphen"/>ted into any Maſterſhip, Governourſhip, Fellowſhip, Schollerſhip, or Office or place of preferment or advan<g ref="char:EOLhyphen"/>tage in the <g ref="char:V">Ʋ</g>niverſitie of <hi>Oxford;</hi> And that no Leaſes of any Lands belonging to the ſaid <g ref="char:V">Ʋ</g>niverſitie, or any the Colledges or Halls therein be made or renued, untill the pleaſure of the Parliament be made knowne therein.</p>
+            <closer>
+               <signed>F. Rous.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Concordat cum Regiſtris Vniverſitatis OXON.</hi>
+               </p>
+               <closer>
+                  <signed>Ita teſtor <hi>Iohannes French</hi> Notarius Publicus &amp; Regiſtarius Vniverſitatis <hi>OXON.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="order">
+            <pb facs="tcp:184684:2" rendition="simple:additions"/>
+            <opener>
+               <dateline>
+                  <date>Die Jovis 26, Auguſti 1647.</date>
+               </dateline>
+            </opener>
+            <head type="sub">An additionall Ordinance of the Lords and Commons aſſembled in Parliament for the Viſitation and Reformation of the Univerſity of <hi>Oxford,</hi> and the ſeverall Colledges and Halls therein.</head>
+            <p>FOr the more effectuall and ſpeedy reformation and regulation of the <g ref="char:V">Ʋ</g>niverſity of <hi>Oxford,</hi> and the ſeverall Colledges and Halls therein according to a former ordi<g ref="char:EOLhyphen"/>nance of the firſt of May laſt, and for the explanation of the ſame, the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament do declare, that the Cathedrall Church and Colledge of <hi>Chriſt-Church</hi> in <hi>Oxford,</hi> with the Deane, Prehendaries, Students, Schollers, and Officers, thereunto belonging, are within the words and intention of the ſaid Ordinance to all intents and purpoſes: and it is further ordained, that the Viſitours thereto ap<g ref="char:EOLhyphen"/>pointed, or any five or more of them ſhall have full power and authority to tender and adminiſter the ſolemne League and Covenant and negative Oath, to all and every the Governours, Profeſſours, Graduates, Maſters, Fellowes, Schollers, Students, &amp; Officers of the ſaid <g ref="char:V">Ʋ</g>niverſity, and of the reſpective Halls and Colledges therein, and to ſend for, examine and peruſe all and every their Bookes and Statutes, Regiſters, Journals, Bookes of Entries, Accounts, Orders, Writings, which concerne the government or af<g ref="char:EOLhyphen"/>faires of the ſaid <g ref="char:V">Ʋ</g>niverſity, or respective Colledges and Halls, and to ſend for in cu<g ref="char:EOLhyphen"/>ſtody and commit to priſon all ſuch perſons, who after the perſonall ſummons ſhall con<g ref="char:EOLhyphen"/>temptuouſly refuſe to produce and deliver the ſame, or any of them to the ſaid Viſi<g ref="char:EOLhyphen"/>tours, or not ſhew ſufficient cauſe of their not producing them, or any of them respe<g ref="char:EOLhyphen"/>ctively, untill they ſhall be accordingly produced, and delivered, and likewiſe all ſuch Maſters, Profeſſors, Fellowes, Schollers, Students, and Officers of the ſaid <g ref="char:V">Ʋ</g>niverſity. Colledges, Halls, or any of them respectively, who during the ſaid Viſitation ſhall after a ſecond perſonall ſummons wilfully neglect or refuſe to appeare before them, and alſo to impannell ſuch and ſo many Members &amp; Officers of the ſaid <g ref="char:V">Ʋ</g>niverſity, Colledges, Halls, and other perſons within the limits and precincts of the ſaid <g ref="char:V">Ʋ</g>niverſity being of the age of <hi>21</hi> yeares or upward as they ſhall thinke fit to enquire of, and preſent upon their corporall Oathes all offenders and offences comprized within the ſaid Ordinance upon ſuch articles of enquiry grounded on the ſaid ordinance, as ſhall be approved of by the ſtanding Committee of Lords and Commons mentioned in the ſaid Ordinance, and likewiſe to examine witneſſes upon oath for proofe of an offence or miſdemeanour inquirable or puniſhable by the ſaid Ordinances: and <hi>Oliver S<hi rend="sup">t</hi>. John</hi> His Majeſties Sollicitour generall is hereby required and authorized to draw up and prepare a Com<g ref="char:EOLhyphen"/>miſſion, and direct the ſame unto the ſaid Viſitours for viſiting the ſaid <g ref="char:V">Ʋ</g>niverſity, Colledges, and Halls, and every of them respectively, and the respective Governours, Maſters, Profeſſours, Schollers, Students, Officers and Members in as large and ample manner as in the ſaid Ordinance, and this preſent Ordinance is preſcribed with<g ref="char:EOLhyphen"/>out any further warrant, and that the Commiſſioners of the great Seale of <hi>England,</hi> ſhall have authority hereby to paſſe the ſaid Commiſſion under the great Seale accor<g ref="char:EOLhyphen"/>dingly, and the ſaid Viſitours and every of them ſhall be protected and ſaved harme<g ref="char:EOLhyphen"/>leſſe by authority of this preſent Parliament againſt all perſons for whatſoever they ſhall act or execute in purſuance of the ſaid Ordinances, and the ſaid Viſtours or any five or more of them ſhall have power to oppiont a Regiſter, and ſuch other Officers as are neceſſary to be imployed in the ſaid Viſitation, who ſhall receive ſuch recompence and Salary for their paines therein, and out of ſuch money as the ſtanding Committee of Lords and Commons ſhall thinke meet, and all Sheriffes, Mayors, and other Officers, are hereby required to be aiding and aſſiſting to the ſaid Viſitours, or any five or more of them, and to their Officers in the execution of this and the former Ordinance.</p>
+            <closer>
+               <signed>Jo. Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb facs="tcp:184684:3"/>
+            <opener>
+               <dateline>
+                  <date>FEB. 18. 1647.</date>
+               </dateline>
+            </opener>
+            <p>WHereas <hi>Philip</hi> Earle of <hi>Pembroke</hi> and <hi>Mont<g ref="char:EOLhyphen"/>gomery,</hi> Chancellour of the <g ref="char:V">Ʋ</g>niverſitie of <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> hath recommended <hi>Edward Reynolds</hi> Maſter of Arts, to be Vice-Chancellour of the ſaid <g ref="char:V">Ʋ</g>niverſity. The Lords and Commons aſſembled in Parliament doe appoint and eſtabliſh the ſaid Maſter <hi>Reynolds</hi> to be Vice-Chancellour of the ſame <g ref="char:V">Ʋ</g>niverſity, with full power and authority to exerciſe and execute the ſaid place and Office of Vice-Chancellour according to the Lawes of the Land, the Cuſtomes and Statutes rightly eſtabliſhed of the ſaid <g ref="char:V">Ʋ</g>niverſity, and to continue in the ſaid place untill Auguſt, <hi>1649.</hi> And then the uſuall Courſe ſhall be held for the Choice of Vice-Chancellours as in former times.</p>
+            <closer>
+               <signed>Io. Brown. Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <opener>
+               <dateline>
+                  <date>MARCH 31. 1648.</date>
+               </dateline>
+            </opener>
+            <p>WHereas the Parliament have ſent downe Commiſ<g ref="char:EOLhyphen"/>ſioners for the regulating of the <g ref="char:V">Ʋ</g>niverſitie of <hi>Ox<g ref="char:EOLhyphen"/>ford;</hi> and whereas divers ill affected perſons doe from time to time oppoſe the putting in execution of the Ordinances of Parliament there, you are on ſight hereof, and hereafter as occaſion ſhall ſerve, to ſend ſuch parties or Companies of your Regiment to <hi>Oxford</hi> as you ſhall find neceſſary upon the deſire of the Commiſsioners for the aſsiſting of them in the ſetling of the ſaid <g ref="char:V">Ʋ</g>niverſitie according to Ordinance of Parliament. And for ſo doing this ſhall be your War<g ref="char:EOLhyphen"/>rant.</p>
+            <closer>
+               <dateline>Given under my hand in Queenſtreet <hi>London</hi> 
+                  <date>the <hi>31</hi> of March, <hi>1648.</hi>
+                  </date>
+               </dateline>
+               <signed>T. FAIRFAX.</signed>
+            </closer>
+            <trailer>To Lieut: Coll: <hi>Kelſay</hi> theſe.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
